@@ -1,4 +1,4 @@
-<img alt="sight banner" src="./assets/doroga_new.jpg">
+<img alt="sight banner" src="./assets/elliott-engelmann-DjlKxYFJlTc-unsplash_new.jpg">
 
 ### Hi there, I`m Vitaliy! 👋
 
