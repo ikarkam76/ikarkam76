@@ -1,6 +1,6 @@
 <img alt="sight banner" src="./assets/elliott-engelmann-DjlKxYFJlTc-unsplash_new.jpg">
 
-### Hi there, I`m Vitaliy! 👋
+ 👋 ### Hi there, I`m Vitaliy!
 
 
 - 🔭 I’m currently working on **improving my knowledge**...
