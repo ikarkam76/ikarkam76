@@ -1,3 +1,5 @@
+<img alt="sight banner" src="./assets/doroga_new.jpg">
+
 ### Hi there, I`m Vitaliy! 👋
 
 
